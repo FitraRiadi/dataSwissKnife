@@ -1,0 +1,5 @@
+django
+djangorestframework
+pandas
+openpyxl
+django-cors-headers
